@@ -43,18 +43,19 @@ span {
 }
 .titulo {
     color: #15224f;
-    font-size: 18px;
+    font-size: 22px;
     text-align:justify;
     margin-top: 30px;
     justify-content:center;
 }
 .titulo h1{
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: 2px;
+    margin-left: 200px;
 }
 .imagem {
     float: right;
-    margin-left: 200px;
+    margin-right: 150px;
 }
 .subtitulo {
     color: #FFF;
@@ -62,7 +63,7 @@ span {
     align-items: center;
     margin-right: 200px;
     justify-content:center;
-    font-size: smaller;    
+    font-size: larger;    
 }
 .subtitulo h2 {
     font-weight: 500;
