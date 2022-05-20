@@ -4,7 +4,7 @@ html,body{
     font-family: 'Barlow', sans-serif;
     font-family: 'Roboto Mono', monospace;
     width: 100%;
-    background-image: url('/public/img/linhas.jpg');
+    background-image: url('img/linhas.jpg');
     background-repeat: no-repeat;
     position: relative;
 }
